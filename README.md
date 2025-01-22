@@ -22,9 +22,9 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 - :mortar_board: I am studying at the Presidential Academy for the Business analyst program.
 
-- :seedling: Exploring linear algebra and probability theory. 
+- :seedling: In my free time from projects, I read books by Robert Martin.
 
-- :zap: In my free time from projects, I read books by Robert Martin.
+- :zap: I am looking for new career solutions!
 
 - :mailbox: How to reach me: <a href="https://web.telegram.org/k/#@ShilkinaSK">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
 
