@@ -6,7 +6,7 @@
 </h1>
 
 <h3 align="center">
-  ...and I am a novice Python developer. Lately, I've been diving into the fascinating world of neural networks and machine learning.
+  ...and I am a Python developer. Lately, I've been diving into the fascinating world of neural networks and machine learning.
 </h3>
 
 
