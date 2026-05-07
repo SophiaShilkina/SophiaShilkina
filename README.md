@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,kafka,redis,docker,github,git,linux,go,react,ts&theme=dark&perline=2" alt="Tech stack" width="13%" align="left" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,kafka,redis,docker,github,git,linux,go,react,ts&theme=dark&perline=2" alt="Tech stack" width="15%" align="left" />
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SophiaShilkina&theme=tokyonight)
 
