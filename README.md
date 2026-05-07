@@ -10,9 +10,22 @@
 
 <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,kafka,redis,docker,github,git,linux,go,react,ts&theme=dark&perline=2" alt="Tech stack" width="14%" align="left" />
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SophiaShilkina&theme=tokyonight)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SophiaShilkina&theme=tokyonight&utcOffset=3)&nbsp;&nbsp;&nbsp;&nbsp;
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SophiaShilkina&theme=tokyonight)
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SophiaShilkina&theme=tokyonight" 
+    width="685"
+  />
+</p>
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SophiaShilkina&theme=tokyonight&utcOffset=3" 
+    width="330"
+  />
+&nbsp;&nbsp;&nbsp;
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SophiaShilkina&theme=tokyonight" 
+    width="330"
+  />
+</p>
 
 <div/>
