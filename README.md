@@ -20,18 +20,18 @@
   <p align="center">
     <img 
       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SophiaShilkina&theme=tokyonight" 
-      width="650"
+      width="644"
     />
   </p>
   <p align="center">
     <img 
       src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SophiaShilkina&theme=tokyonight&utcOffset=3" 
-      width="315"
+      width="312"
     />
     &nbsp;&nbsp;&nbsp;
     <img 
       src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SophiaShilkina&theme=tokyonight" 
-      width="315"
+      width="312"
     />
   </p>
 
