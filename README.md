@@ -3,7 +3,7 @@
   # Sophia · Backend Developer
 
   <img 
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&width=600&height=120&size=18&duration=2600&pause=800&color=9D7CD8&center=true&vCenter=true&multiline=true&repeat=false&random=false&lines=Building+clean+backend+systems;Designing+microservices+with+DDD;Thinking+in+events%2C+contracts+and+boundaries" 
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&width=600&height=95&size=18&duration=3600&pause=100&color=9D7CD8&center=true&vCenter=true&multiline=true&repeat=false&random=false&lines=Building+clean+backend+systems;Designing+microservices+with+DDD;Thinking+in+events%2C+contracts+and+boundaries" 
   />
 
 <div/>
