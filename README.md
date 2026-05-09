@@ -11,7 +11,6 @@
 <div align="center">
 
   <img src="transparent-spacer.svg" width="10" height="329" align="left" />
-  <img src="transparent-spacer.svg" width="10" height="329" align="left" />
 
   <img 
     src="https://skillicons.dev/icons?i=python,fastapi,postgres,kafka,redis,docker,github,git,linux,go,react,ts&theme=dark&perline=2" 
